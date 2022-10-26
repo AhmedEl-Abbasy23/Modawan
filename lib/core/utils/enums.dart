@@ -1,0 +1,4 @@
+enum DataState {
+  loaded,
+  loading,
+}

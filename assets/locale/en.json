@@ -1,0 +1,21 @@
+{
+  "app_name": "MODAWAN",
+  "notes": "Notes",
+  "create_first_note": "Create your first note!",
+  "title": "Title",
+  "type_something": "Type something...",
+  "short_title": "Title is too short!",
+  "short_details": "Details is too short!",
+  "deleted": "is deleted",
+  "save_note": "Save note?",
+  "discard_changes": "Are your sure you want discard your changes?",
+  "update_note": "Update note?",
+  "save": "Save",
+  "discard": "Discard",
+  "keep": "Keep",
+  "update": "Update",
+  "select_note_color": "Select the note color!",
+  "done": "Done",
+  "search_by_keyword": "Search by the keyword...",
+  "note_not_found": "Note not found, Try searching again!"
+}
