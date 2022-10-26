@@ -1,15 +1,26 @@
-# notes
+# Modawan
 
-Notes app.
+Notes mobile application supported Arabic & English languages.
+
+## Description
+
+Modawan is the best place to jot down quick thoughts or to save longer notes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Dependencies
+##### This project is built using flutter technology with clean architecture code and local database.
+#### Some external libraries have been used like:
+* flutter_bloc (Bloc state management)
+* sqflite (local database)
+* dartz
+* get_it
+* equatable
+* localize_and_translate
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installing
+###### You can obtain a copy of the application and download it to your phone through the following link:
+[Modawan](https://www.mediafire.com/file/362cvz1g9h82jg2/Modawan.apk/file) - apk file.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
