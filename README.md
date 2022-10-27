@@ -44,6 +44,6 @@ Modawan is the best place to jot down quick thoughts or to save longer notes.
 <img src="https://user-images.githubusercontent.com/62981289/198348065-fa17d166-3b33-4c7a-84fd-eefcf57d9440.jpg" width="200">
 </div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact:
+* [Linkedin Account](https://www.linkedin.com/in/ahmed-elabbasy23)
+* ahmed.elabbasy23@gmail.com
