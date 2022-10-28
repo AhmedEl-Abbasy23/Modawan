@@ -4,7 +4,7 @@ Notes mobile application supported Arabic & English languages.
 
 ## Description
 
-Modawan is the best place to jot down quick thoughts or to save longer notes.
+Modawan is the best place to jot down quick thoughts or save longer notes.
 
 ## Getting Started
 
